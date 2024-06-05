@@ -3,19 +3,7 @@
 Terraform Module that creates an AWS Route 53 resources.
 
 
-[![](https://img.shields.io/github/license/terraform-module/terraform-aws-dns)](https://github.com/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/github/v/tag/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/issues/github/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/github/issues/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/github/issues-closed/terraform-module/terraform-aws-dns)
-[![](https://img.shields.io/github/languages/code-size/terraform-module/terraform-aws-dns)](https://github.com/terraform-module/terraform-aws-dns)
-[![](https://img.shields.io/github/repo-size/terraform-module/terraform-aws-dns)](https://github.com/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/github/languages/top/terraform-module/terraform-aws-dns?color=green&logo=terraform&logoColor=blue)
-![](https://img.shields.io/github/commit-activity/m/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/github/contributors/terraform-module/terraform-aws-dns)
-![](https://img.shields.io/github/last-commit/terraform-module/terraform-aws-dns)
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/terraform-module/terraform-aws-dns/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/terraform-module/terraform-aws-dns.svg?style=social&label=Fork)](https://github.com/terraform-module/terraform-aws-dns)
+
 
 ## Documentation
 
@@ -23,7 +11,7 @@ Terraform Module that creates an AWS Route 53 resources.
 
 ## Usage example
 
-IMPORTANT: The master branch is used in source just as an example. In your code, do not pin to master because there may be breaking changes between releases. Instead pin to the release tag (e.g. ?ref=tags/x.y.z) of one of our [latest releases](https://github.com/terraform-module/terraform-aws-dns/releases).
+
 
 See `examples` directory for working examples to reference:
 
@@ -34,12 +22,6 @@ module "dns" {
   # insert the 3 required variables here
 }
 ```
-
-## Assumptions
-
-## Available features
-
-## Module Variables
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements
